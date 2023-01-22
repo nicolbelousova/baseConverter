@@ -1,0 +1,18 @@
+function baseConverter(number, fromBase, toBase) {
+    return parseInt(number, fromBase).toString(toBase);
+}
+
+
+function convertBase(number, fromBase, toBase) {
+    return parseInt(number, fromBase).toString(toBase);
+}
+
+
+function baseNumberConverter(number, fromBase, toBase) {
+    return parseInt(number, fromBase).toString(toBase);
+}
+
+
+function numberBaseConverter(number, fromBase, toBase) {
+    return parseInt(number, fromBase).toString(toBase);
+}
